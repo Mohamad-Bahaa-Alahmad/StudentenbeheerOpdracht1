@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Studentenbeheer",
+    "\\Studentenbeheer\\Controllers",
+    "\\Studentenbeheer\\Models",
+    "\\Studentenbeheer\\Views",
+    "\\Studentenbeheer\\Views\\Home",
+    "\\Studentenbeheer\\Views\\Shared",
+    "\\Studentenbeheer\\Views\\Students"
+  ],
+  "SelectedNode": "\\Studentenbeheer\\Studentenbeheer.csproj",
+  "PreviewInSolutionExplorer": false
+}
